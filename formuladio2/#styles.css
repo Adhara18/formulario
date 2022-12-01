@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/imangenes/images\ \(1\).jpg);
+
+}
+.from-register{
+    width: 400px;
+    background-color: #e9dd8a;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color:white;
+    box-shadow: 7px 13px 37px #000;
+    
+}
+.from-register h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.from-register{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+.controls{
+    width: 100%;
+    background: #e9dd8a;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #e9dd8a;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+.from-register a {
+    color: white;
+    text-decoration: none;
+}
+.from-register a:hover {
+    color: white;
+    text-decoration: underline;
+}
+.from-register .botons{
+    width: 100%;
+    background-color: #1f53c5;
+    border: none;
+    padding: 12px;
+    margin: 16px 0;
+}
+
